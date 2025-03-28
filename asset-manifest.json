@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/duonganhduc/static/css/main.53ff0d51.css",
+    "main.js": "/duonganhduc/static/js/main.0ea2affb.js",
+    "index.html": "/duonganhduc/index.html",
+    "main.53ff0d51.css.map": "/duonganhduc/static/css/main.53ff0d51.css.map",
+    "main.0ea2affb.js.map": "/duonganhduc/static/js/main.0ea2affb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53ff0d51.css",
+    "static/js/main.0ea2affb.js"
+  ]
+}
